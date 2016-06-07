@@ -1,4 +1,6 @@
-first line
-new line
-third line
-haha, ending
+first line  
+
+Git is a version control system.
+second line  
+third line  
+ENDING  
